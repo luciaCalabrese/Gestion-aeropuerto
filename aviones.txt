@@ -4,3 +4,4 @@ vuelo2=15,10,Italia,16/12/21-15.10
 vuelo3=20,5,Portugal,20/02/21-18.00
 vuelo4=15,12,Cancun,15/03/21-15.30
 vuelo5=10,9,Madrid,12/03/21-10.00
+vuelo6=15,12,Madrid,15/03/21-20.00
